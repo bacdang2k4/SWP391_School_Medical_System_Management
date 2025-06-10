@@ -1,1 +1,1 @@
-# SWP391_Schoo_Medical_System_Management
+# SWP391_School_Medical_System_Management
